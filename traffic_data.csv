@@ -1,0 +1,7 @@
+Date,TollPoint,VehicleClass,PassageCount,TransactionCount,ANPR_Status,Speed,Lane
+2025-06-25,TP01,Class1,150,145,Valid,60,1
+2025-06-25,TP01,Class2,80,78,Valid,55,2
+2025-06-25,TP02,Class1,120,115,Invalid,62,1
+2025-06-25,TP02,Class3,50,48,Valid,58,3
+2025-06-25,TP03,Class2,90,88,Valid,57,2
+2025-06-25,TP03,Class3,40,38,Invalid,59,4
